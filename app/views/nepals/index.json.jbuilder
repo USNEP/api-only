@@ -1,0 +1,1 @@
+json.array! @nepals, partial: 'nepals/nepal', as: :nepal

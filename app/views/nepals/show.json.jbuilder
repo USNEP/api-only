@@ -1,0 +1,1 @@
+json.partial! "nepals/nepal", nepal: @nepal
